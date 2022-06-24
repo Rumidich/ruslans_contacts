@@ -1,0 +1,76 @@
+{
+  "contacts": [
+    {
+      "name": "Ruslan",
+      "surname": "Midin",
+      "phone": "497777777999",
+      "id": 1
+    },
+    {
+      "name": "Thom",
+      "surname": "Cruise",
+      "phone": "123495604555",
+      "id": 6
+    },
+    {
+      "name": "Margo",
+      "surname": "Robbie",
+      "phone": "+44787980944",
+      "id": 8
+    },
+    {
+      "name": "Robbie",
+      "surname": "Williams",
+      "phone": "486969745666",
+      "id": 9
+    },
+    {
+      "name": "Barbara",
+      "surname": "Straisand",
+      "phone": "123456789000",
+      "id": 10
+    },
+    {
+      "name": "Leticia",
+      "surname": "Casta",
+      "phone": "399405066000",
+      "id": 12
+    },
+    {
+      "name": "Bob",
+      "surname": "Sinclar",
+      "phone": "319387475888",
+      "id": 13
+    },
+    {
+      "name": "Axel",
+      "surname": "Diesel",
+      "phone": "497940585899",
+      "id": 14
+    },
+    {
+      "name": "Mark",
+      "surname": "Zuckerberg",
+      "phone": "199999011099",
+      "id": 15
+    },
+    {
+      "name": "Angela",
+      "surname": "Heinz",
+      "phone": "492748596898",
+      "id": 16
+    },
+    {
+      "name": "Justin",
+      "surname": "Bieber",
+      "phone": "179795047444",
+      "id": 17
+    },
+    {
+      "name": "Ruslan",
+      "surname": "Mi",
+      "phone": "+41799999999",
+      "id": 20
+    }
+  ]
+}
