@@ -26,6 +26,7 @@ const ContactContextProvider = ({ children }) => {
   //! Create
   async function createContact(newContact) {
     await axios.post(API, newContact);
+    getContacts();
   }
   //! Read
   async function getContacts() {
